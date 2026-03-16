@@ -32,4 +32,11 @@ Creo que ya habiamos subido el archivo con la direccion antes y por eso ha dado 
 21		Guardar calificacion.txt
 22 		Volver a RamaC
 23		Guardar esta bitácora
+24		Voover a la rama master
+25		Fusion ramaC en master fast-forward
+26		Fusion ramaD en master
+27		Fusion ramaC en master
+28		Etiquetar master con Conseguido
+29		Editar bitacora
+30 		Subir cambios
  							
