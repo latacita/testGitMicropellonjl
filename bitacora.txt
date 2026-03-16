@@ -14,3 +14,6 @@
 06		Desplazarse a RamaA
 07		Añadir direccion Facultad UC
 08		Guardar cambios en local
+09		Ir a RamaA
+10		Editar direccion.txt con Provincia= Cantabria
+11		Guardar cambios en local
