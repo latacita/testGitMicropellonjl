@@ -6,3 +6,20 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01		Clonado
+02		Edicion bitacora.txt
+03		Añadir GITHUB bitacora modificado
+04		Crear ramaA
+05		Crear ramaB
+06		Desplazarse a RamaA
+07		Añadir direccion Facultad UC
+08		Guardar cambios en local
+09		Ir a RamaA
+10		Editar direccion.txt con Provincia= Cantabria
+11		Guardar cambios en local
+12		Volver a RamaA
+13		Fusionar ramaA en master	Auto-merging direccion.txt
+									CONFLICT (add/add): Merge conflict in direccion.txt
+									Automatic merge failed; fix conflicts and then commit the result.
+Creo que ya habiamos subido el archivo con la direccion antes y por eso ha dado este conflicto
+14											
