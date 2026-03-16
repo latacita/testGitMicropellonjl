@@ -22,4 +22,14 @@
 									CONFLICT (add/add): Merge conflict in direccion.txt
 									Automatic merge failed; fix conflicts and then commit the result.
 Creo que ya habiamos subido el archivo con la direccion antes y por eso ha dado este conflicto
-14											
+14		Fusionar ramaB en master
+15		Editar esta bitácora		
+16		Crear RamaC
+17		Ir a RamaC
+18		Editar direccion.txt
+19		Crear RamaD y rnlazarla con RamaD en GITHUB
+20		Crear calificacion.txt
+21		Guardar calificacion.txt
+22 		Volver a RamaC
+23		Guardar esta bitácora
+ 							
